@@ -17,26 +17,27 @@
     <data>
         <ui-entry>
             <i>
-                <title>问题反馈</title>
+                <title>常用信息</title>
                 <href></href>
-                <subtitle></subtitle>
+                <subtitle>旅客/地址/报销凭证</subtitle>
                 <icon></icon>
-                <bg></bg>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a4zslo5bTjeckfxkhRofdbA4e4m-1213.png</bg>
             </i>
             <i>
-                <title>商务合作</title>
+                <title>我的收藏</title>
                 <href></href>
-                <subtitle></subtitle>
+                <subtitle>收藏后静等降价通知</subtitle>
                 <icon></icon>
-                <bg></bg>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a4zslij9Tjeckg36jR7jpiA4fuf-1706.png</bg>
             </i>
             <i>
-                <title>关于我们</title>
+                <title>浏览历史</title>
                 <href></href>
-                <subtitle></subtitle>
+                <subtitle>保留15天,随时可回看</subtitle>
                 <icon></icon>
-                <bg></bg>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/2ajyf6sgqTizdxut92R8wu6E1fn0.jpg</bg>
             </i>
+        
         </ui-entry>
     </data>
 </root>
