@@ -1,10 +1,10 @@
 {
-  "RULE_VERSION":"20180724",
+  "RULE_VERSION":"20190428",
   "name": "list-block-entry",
   "apiDependencies": [
-  {
-    "name": "ui-entry"
-  }
-]
+	  {
+	    "name": "ui-entry"
+	  }
+	]
 }
 
